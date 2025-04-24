@@ -3,7 +3,7 @@
 Welcome to the **MySQL Tasks** repository!  
 This repo is a collection of MySQL query assignments and tasks that I’ve completed while learning SQL. All tasks were solved using **MySQL Workbench**.
 
-These exercises are based on the structured and beginner-friendly lessons by **Nitish Sir** from the [CampusX YouTube Channel](https://www.youtube.com/c/CampusX).
+These exercises are based on the structured and beginner-friendly lessons by **Nitish Sir** from the [CampusX YouTube Channel](https://www.youtube.com/@campusx-official).
 
 ---
 
@@ -26,7 +26,7 @@ Each query is written, tested, and explained for easy understanding and practice
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/mysql-tasks.git
+   git clone https://github.com/manjurul369/mysql-tasks.git
 
 2. Open the .sql files using MySQL Workbench or any SQL editor of your choice.
 3. Run the queries and explore the logic behind each task.
